@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fibonacci": "matcha src/fibonacci.js",
+    "firstDuplicate": "matcha src/firstDuplicate.js"
   },
-  "author": "",
+  "author": "Adam Borowski <adam@adamboro.com>",
   "license": "ISC",
   "installConfig": {
     "pnp": true
